@@ -1,5 +1,8 @@
 # Mòdul Odoo: School
 
+![CFGS DAM](https://img.shields.io/badge/CFGS-DAM-green)
+![SGE](https://img.shields.io/badge/assignatura-SGE-purple)
+
 Mòdul d'Odoo per gestionar una escola: cursos, edicions, assignatures, professorat i la seva docència. Pràctica 1 de l'assignatura de Sistemes de Gestió Empresarial (SGE) del CFGS de Desenvolupament d'Aplicacions Multiplataforma (Institut Milà i Fontanals, Igualada), curs 2025-2026.
 
 La pràctica 2 amplia aquest mòdul: [SGE_P2_Odoo_modul_school_plus](https://github.com/sarapratsm/SGE_P2_Odoo_modul_school_plus).
